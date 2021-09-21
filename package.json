@@ -1,0 +1,16 @@
+{
+  "name": "module-playground",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": " ",
+  "scripts": {
+    "deploy": "node main.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "author": "Media-Evil",
+  "license": "UNLICENSED"
+}
